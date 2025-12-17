@@ -1,5 +1,5 @@
 # Trace
-This is an official repository of Trace.
+“Going to a trap house” conveys more fear than “Going to a mall”: Benchmarking Emotion Context Sensitivity for LLMs (EMNLP 2025 Findings)
 
 ## Run evaluation
 After installing packages in requirement.txt, run the following codes.
